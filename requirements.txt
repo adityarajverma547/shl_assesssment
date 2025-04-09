@@ -1,0 +1,6 @@
+gradio
+requests
+fastapi
+uvicorn
+pandas
+
